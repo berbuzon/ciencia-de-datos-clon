@@ -44,8 +44,13 @@ La siguiente es una guia breve de que vas a encontrar en cada uno de ellos:
 -[Seaborn: Análisis de Ventas a lo Largo del Tiempo - Barras](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase13/Clase13-Actividad-practica-2-Seaborn.ipynb)
 
 ### Clase 14
+- [Gráficos con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase14/Clase14.ipynb)
 
 ### Clase 15
+- [Dasboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase15/Clase15.ipynb) (Este cuaderno debe ser visualizado en Colab)
+- [Actividad práctica:dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase15/Clase15-Actividad-practica.ipynb)
+
+----
 
 > Nota: las clases 1 a 4 consisten en un repaso de la sintaxis y estructura de Python, por lo que no se han incluido en el repositorio.
 
