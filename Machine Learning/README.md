@@ -44,3 +44,14 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
 
 ### Cuaderno 14
   - Entrenamiento, evaluación y selección de modelos
+
+----
+## Licencia
+
+Este proyecto se distribuye bajo la licencia
+Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
+Se permite su uso, modificación y redistribución, siempre que
+se atribuya correctamente la autoría.
+
+  
