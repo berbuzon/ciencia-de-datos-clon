@@ -50,7 +50,15 @@ La siguiente es una guia breve de que vas a encontrar en cada uno de ellos:
 - [Dasboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase15/Clase15.ipynb) (Este cuaderno debe ser visualizado en Colab)
 - [Actividad práctica:dashboard con Seaborn](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Clase15/Clase15-Actividad-practica.ipynb)
 
-----
+---
+## Licencia
+
+Este proyecto se distribuye bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
+Se permite su uso, modificación y redistribución, siempre que se atribuya correctamente la autoría.
+
+---
+
 
 > Nota: las clases 1 a 4 consisten en un repaso de la sintaxis y estructura de Python, por lo que no se han incluido en el repositorio.
 
