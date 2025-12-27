@@ -31,7 +31,7 @@ La siguiente es una guia breve de lo que vas a encontrar en cada cuaderno:
   - [Random Forest](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_09.ipynb)
 
 ### Cuaderno 10
-  - Introducción al aprendizaje no supervisado y al clustering
+  - [Introducción al aprendizaje no supervisado y al clustering](https://github.com/VintaBytes/Ciencia-de-datos/blob/main/Machine%20Learning/ML_10.ipynb)
 
 ### Cuaderno 11
   - Automatización del flujo de trabajo con Pipelines y GridSearchCV
